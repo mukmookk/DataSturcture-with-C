@@ -2,3 +2,10 @@
 Recursion/headRecursion
 Recursion/treeRecursion
 Recursion/taylorSeriesRec1
+.vscode/tasks.json
+Recursion/FiboRec
+.vscode/launch.json
+Recursion/FiboRec.dSYM/Contents/Info.plist
+Recursion/FiboRec.dSYM/Contents/Resources/DWARF/FiboRec
+.DS_Store
+Recursion/nCr
